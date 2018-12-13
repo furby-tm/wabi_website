@@ -47,7 +47,7 @@
 }
 
 @font-face {
-    font-family: 'Gotham';
+    font-family: 'Gotham Bold';
     src: url('/fonts/Gotham-Bold.eot');
     src: url('/fonts/Gotham-Bold.eot?#iefix') format('embedded-opentype'),
         url('/fonts/Gotham-Bold.woff2') format('woff2'),
@@ -71,5 +71,5 @@
 }
 
 a {
-    font-family: 'Gotham' !important;
+    font-family: 'Gotham Bold' !important;
 }
